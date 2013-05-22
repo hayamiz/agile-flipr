@@ -10,3 +10,4 @@ change_pass [users appschema] 2013-05-22T02:41:37Z David E. Wheeler <david@justa
 @v1.0.0-r1 2013-05-22T02:55:37Z David E. Wheeler <david@justatheory.com> # Tag v1.0.0-r1.
 
 pgcrypto 2013-05-22T04:02:01Z David E. Wheeler <david@justatheory.com> # Loads pgcrypto extension.
+insert_user [insert_user@v1.0.0-r1 pgcrypto] 2013-05-22T04:07:59Z David E. Wheeler <david@justatheory.com># Changes insert_user to use pgcrypto.
