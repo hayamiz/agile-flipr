@@ -5,3 +5,4 @@
 appschema 2013-05-21T19:01:04Z David E. Wheeler <david@justatheory.com> # Adds flipr app schema.
 users [appschema] 2013-05-21T19:41:54Z David E. Wheeler <david@justatheory.com> # Creates table to track our users.
 flips [appschema users] 2013-05-21T20:38:21Z David E. Wheeler <david@justatheory.com> # Adds table for storing flips.
+insert_user [users appschema] 2013-05-22T02:39:27Z David E. Wheeler <david@justatheory.com> # Creates a function to insert a user.
